@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.liera.xps" >
+    <application>
+        <activity android:theme="@style/xpsTransparent" android:name=".activitys.XpsPermissionRequestActivity"/>
+    </application>
+</manifest>
